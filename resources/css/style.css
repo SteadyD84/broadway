@@ -2,4 +2,17 @@
 	font-family: Helvetica;
 	text-align: center;
 	text-orientation: horizontal;
+	background-color: white;
+}
+
+h1 {
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+}
+
+#menu {
+		font-size: 18px;
+		color: white;
+		background-image: url("resources/the-flatiron-building.png");
 }
