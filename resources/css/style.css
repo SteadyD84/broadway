@@ -2,7 +2,10 @@
 	font-family: Helvetica;
 	text-align: center;
 	text-orientation: horizontal;
-	background-color: white;
+}
+
+body {
+	background-image: url ("./resources/the-flatiron-building.png");
 }
 
 h1 {
@@ -14,5 +17,4 @@ h1 {
 #menu {
 		font-size: 18px;
 		color: white;
-		background-image: url("resources/the-flatiron-building.png");
-}
+		}
