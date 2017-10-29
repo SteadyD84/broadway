@@ -21,6 +21,21 @@ h2 {
 	font-family: Helvetica;
 }
 
+h4 {
+	font-size: 11px;
+	color: white;
+	background-color: dimgrey;
+	text-align: left;
+}
+
+#bar {
+	font-size: 23px;
+	font-weight: bold;
+	color: white;
+	background-image: url("../the-flatiron-building.png");
+
+}
+
 #menu {
 		font-size: 18px;
 		color: white;
